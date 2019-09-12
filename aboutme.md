@@ -1,12 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: A website for my Class
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Justin Gunn. I have the following qualities:
 
-- I rock a great mustache
+- I have a lot of jeans
 - I'm extremely loyal to my family
 
 What else do you need?
