@@ -4,10 +4,10 @@ title: About me
 subtitle: A website for my Class
 ---
 
-My name is Justin Gunn. I have the following qualities:
+My name is _Justin Gunn_.
+I have a lot of jeans
+and shoes. A lot of those.
 
-- I have a lot of jeans
-- I'm extremely loyal to my family
 
 What else do you need?
 
