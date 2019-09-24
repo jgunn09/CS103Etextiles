@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sniches get Stiches
+title: Stiches
 tags: [stiches]
 comments: true
 ---
