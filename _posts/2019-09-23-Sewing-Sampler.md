@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stiches
+title: Sew what
 tags: [stiches]
 comments: true
 ---
