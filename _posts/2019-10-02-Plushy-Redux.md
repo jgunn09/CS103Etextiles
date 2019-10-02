@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Circus Plushy III: The Search for the Sequal
+title: Circus Plushy III: The Search for the Sequel
 tags: [plushy, computer, two]
 image: /img/CircuitPlushy.png
 comments: true
