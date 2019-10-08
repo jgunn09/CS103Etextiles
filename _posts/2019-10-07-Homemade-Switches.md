@@ -6,7 +6,7 @@ image: /img/FrontLight.png
 comments: true
 ---
 
-![paper](https://jgunn09.github.io/CS103Etextiles/img/PaperLight.png)
+![paper](https://jgunn09.github.io/CS103Etextiles/img/Paperlight.png)
 ![aligator](https://jgunn09.github.io/CS103Etextiles/img/GatorLight.png)
 ![front](https://jgunn09.github.io/CS103Etextiles/img/FrontLight.png)
 ![back](https://jgunn09.github.io/CS103Etextiles/img/BackLight.png)
