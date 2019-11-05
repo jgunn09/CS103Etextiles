@@ -2,11 +2,11 @@
 layout: post
 title: If 10 million fireflies
 tags: [fireflies]
-image: /img/sparklies.jpeg
+image: /img/sparklies.jpg
 comments: true
 ---
 
-![three](https://jgunn09.github.io/CS103Etextiles/img/sparklies.jpeg)
+![three](https://jgunn09.github.io/CS103Etextiles/img/sparklies.jpg)
 
 
 This code alters the LED of the arduino lilypad having three different LEDs light up differently.  
